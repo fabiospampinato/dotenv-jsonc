@@ -28,7 +28,7 @@
     "jsonc"
   ],
   "dependencies": {
-    "jsonc-simple-parser": "^3.0.0"
+    "tiny-jsonc": "^1.0.1"
   },
   "devDependencies": {
     "@types/node": "^18.11.18",
