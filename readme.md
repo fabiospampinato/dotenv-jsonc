@@ -6,7 +6,7 @@ Simple library for loading your `.env.json` file containing JSONC.
 
 - You are expected to have a `.env.jsonc`, or `.env.json`, or `.env` file containing JSON, with optional comments in it, at the root of your current working directory.
 - If none of those files are found this library will throw.
-- When reading environment variables the file is simply only parsed with [`jsonc-simple-parser`](https://github.com/fabiospampinato/jsonc-simple-parser).
+- When reading environment variables the file is simply only parsed with [`tiny-jsonc`](https://github.com/fabiospampinato/tiny-jsonc).
 - When extending environment variables values are always casted to strings first.
 
 ## Install
