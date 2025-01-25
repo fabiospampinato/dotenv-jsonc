@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/dotenv-jsonc",
   "description": "Simple library for loading your .env.json file containing JSONC.",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
