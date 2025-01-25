@@ -12,7 +12,7 @@ Simple library for loading your `.env.json` file containing JSONC.
 ## Install
 
 ```sh
-npm install --save dotenv-jsonc
+npm install dotenv-jsonc
 ```
 
 ## Usage
